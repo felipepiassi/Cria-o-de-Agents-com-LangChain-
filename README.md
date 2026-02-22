@@ -49,6 +49,10 @@ Ele funciona como um assistente inteligente capaz de:
 | Virtual Environment (venv) | Isolamento do ambiente |
 
 ---
+# 🌐 Abrirá no navegador:
+
+
+http://localhost:8501
 
 # 📁 Estrutura do Projeto
 meu_agente/
